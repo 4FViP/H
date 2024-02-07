@@ -24,8 +24,8 @@ app = Client(
 app.start()
 # DASTURCHI @ALAWE1 Kanal : @AWCODE3
 while True:
-    from_chat_id = -1001465512263 # A'zo tanlamoqchi bolgan guruhingiz ID raqamini kiritng
-    my_chat_id = -1001988031774 # A'zolarni qo'shmoqchi bo'lgan guruhingiz ID raqamini kiritng
+    from_chat_id = -1991965557 # A'zo tanlamoqchi bolgan guruhingiz ID raqamini kiritng
+    my_chat_id = -2036859731 # A'zolarni qo'shmoqchi bo'lgan guruhingiz ID raqamini kiritng
     members = [] # Foidalanuvchi idlarini ro'yxatga ko'chirish yani olish uchun
     # DASTURCHI @ALAWE1 Kanal : @AWCODE3
     for member in app.get_chat_members(from_chat_id):
